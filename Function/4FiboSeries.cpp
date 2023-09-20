@@ -9,7 +9,6 @@ int Fibo(int n){
         a=b;
         b=nextNum;
     }
-    
 }
 int main()
 {
